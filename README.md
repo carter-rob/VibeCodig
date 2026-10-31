@@ -1,0 +1,2 @@
+# VibeCodig
+Vibe coding projects
